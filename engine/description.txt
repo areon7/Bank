@@ -1,0 +1,5 @@
+void function(a double, b double)
+{
+double sum = a + b;
+return sum;
+}
