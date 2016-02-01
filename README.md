@@ -1,7 +1,5 @@
 # Bank
-<<<<<<< HEAD
 # Project Description. AREON7
-# proizv
-=======
-# new line
->>>>>>> parent of 5317ce8... new
+# in floder
+# it's function realizated sum 
+# in future will be proizvedenie
