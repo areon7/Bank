@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 void function(a double, b double)
 {
-double sum = a + b;
-return sum;
+double proizv = a * b;
+return proizv ;
 }
+=======
+>>>>>>> parent of 5317ce8... new
